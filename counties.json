@@ -1,0 +1,616 @@
+{
+    "counties": [
+        {
+            "name": "Mombasa",
+            "sub-locations": [
+                "Mvita",
+                "Changamwe",
+                "Kisauni",
+                "Likoni",
+                "Nyali",
+                "Jomvu",
+                "Kisauni",
+                "Likoni"
+            ]
+        },
+        {
+            "name": "Kwale",
+            "sub-locations": [
+                "Matuga",
+                "Msambweni",
+                "Lunga Lunga",
+                "Kinango",
+                "Ramisi",
+                "Vanga",
+                "Ukunda",
+                "Mbweni"
+            ]
+        },
+        {
+            "name": "Kilifi",
+            "sub-locations": [
+                "Kaloleni",
+                "Rabai",
+                "Malindi",
+                "Ganze",
+                "Magarini",
+                "Marafa",
+                "Mariakani",
+                "Mtwapa"
+            ]
+        },
+        {
+            "name": "Tana River",
+            "sub-locations": [
+                "Bura",
+                "Garsen",
+                "Hola",
+                "Galole",
+                "Bura Tana",
+                "Madogo",
+                "Tarasaa",
+                "Witu"
+            ]
+        },
+        {
+            "name": "Lamu",
+            "sub-locations": [
+                "Lamu West",
+                "Lamu East",
+                "Shella",
+                "Mpeketoni",
+                "Witu",
+                "Faza",
+                "Mokowe",
+                "Pate Island"
+            ]
+        },
+        {
+            "name": "Taita-Taveta",
+            "sub-locations": [
+                "Mwatate",
+                "Voi",
+                "Wundanyi",
+                "Taveta",
+                "Voi",
+                "Mbulu",
+                "Kiteto",
+                "Mboghoni"
+            ]
+        },
+        {
+            "name": "Garissa",
+            "sub-locations": [
+                "Dadaab",
+                "Fafi",
+                "Garissa",
+                "Hulugho",
+                "Ijara",
+                "Lagdera",
+                "Balambala",
+                "Dertu"
+            ]
+        },
+        {
+            "name": "Wajir",
+            "sub-locations": [
+                "Wajir West",
+                "Wajir North",
+                "Wajir East",
+                "Tarbaj",
+                "Eldas",
+                "Wajir South",
+                "Hadado",
+                "Korondile"
+            ]
+        },
+        {
+            "name": "Mandera",
+            "sub-locations": [
+                "Mandera West",
+                "Mandera North",
+                "Mandera South",
+                "Mandera East",
+                "Banisa",
+                "Takaba",
+                "Lafey",
+                "Moyale"
+            ]
+        },
+        {
+            "name": "Marsabit",
+            "sub-locations": [
+                "Laisamis",
+                "Moyale",
+                "North Horr",
+                "Saku",
+                "Samburu West",
+                "Marsabit",
+                "Karare",
+                "Sololo"
+            ]
+        },
+        {
+            "name": "Isiolo",
+            "sub-locations": [
+                "Isiolo",
+                "Merti",
+                "Garbatulla",
+                "Sericho",
+                "Modogashe",
+                "Oldonyiro",
+                "Moyale",
+                "Kinna"
+            ]
+        },
+        {
+            "name": "Meru",
+            "sub-locations": [
+                "Meru",
+                "Tigania West",
+                "Igembe South",
+                "Igembe Central",
+                "Igembe North",
+                "Tigania East",
+                "Buuri",
+                "Central Imenti"
+            ]
+        },
+        {
+            "name": "Tharaka-Nithi",
+            "sub-locations": [
+                "Chuka/Igambang'ombe",
+                "Maara",
+                "Tharaka",
+                "Muthambi",
+                "Mutonga",
+                "Nkubu",
+                "Marimanti",
+                "Runyenjes"
+            ]
+        },
+        {
+            "name": "Embu",
+            "sub-locations": [
+                "Manyatta",
+                "Mbeere North",
+                "Mbeere South",
+                "Runyenjes",
+                "Siakago",
+                "Embu West",
+                "Embu East",
+                "Embu North"
+            ]
+        },
+        {
+            "name": "Kitui",
+            "sub-locations": [
+                "Mwingi North",
+                "Mwingi Central",
+                "Mwingi South",
+                "Kitui West",
+                "Kitui Rural",
+                "Kitui Central",
+                "Kitui East",
+                "Mutitu"
+            ]
+        },
+        {
+            "name": "Machakos",
+            "sub-locations": [
+                "Masinga",
+                "Yatta",
+                "Matungulu",
+                "Kangundo",
+                "Kathiani",
+                "Mavoko",
+                "Machakos",
+                "Mwala"
+            ]
+        },
+        {
+            "name": "Makueni",
+            "sub-locations": [
+                "Kilome",
+                "Kathonzweni",
+                "Mbooni",
+                "Makueni",
+                "Mbaitu",
+                "Kilungu",
+                "Kilimambogo",
+                "Kaiti"
+            ]
+        },
+        {
+            "name":"Nyandarua",
+            "sub-locations": [
+                "Ol Kalou",
+                "Ndaragwa",
+                "Kinangop",
+                "Kipipiri",
+                "Githunguri",
+                "Gatanga",
+                "Kieni",
+                "Kiambu"
+            ]
+        },
+        {
+            "name": "Nyeri",
+            "sub-locations": [
+                "Kieni",
+                "Mathira",
+                "Tetu",
+                "Nyeri Central",
+                "Othaya",
+                "Mukurwe-ini",
+                "Nyeri North",
+                "Nyeri South"
+            ]
+        },
+        {
+            "name": "Kirinyaga",
+            "sub-locations": [
+                "Gichugu",
+                "Mwea",
+                "Kirinyaga Central",
+                "Ndia",
+                "Kirinyaga East",
+                "Kirinyaga West",
+                "Mugirango",
+                "Karachuonyo"
+            ]
+        },
+        {
+            "name": "Murang'a",
+            "sub-locations": [
+                "Kangema",
+                "Mathioya",
+                "Kigumo",
+                "Maragua",
+                "Kandara",
+                "Kiharu",
+                "Thika",
+                "Gatanga"
+            ]
+        },
+        {
+            "name": "Kiambu",
+            "sub-locations": [
+                "Limuru",
+                "Gatundu South",
+                "Gatundu North",
+                "Juja",
+                "Thika",
+                "Ruiru",
+                "Kiambaa",
+                "Kabete"
+            ]
+        },
+        {
+            "name": "Turkana",
+            "sub-locations": [
+                "Turkana North",
+                "Turkana Central",
+                "Turkana West",
+                "Turkana South",
+                "Turkana East",
+                "Loima",
+                "Turkana Southwest",
+                "Lokichoggio"
+            ]
+        },
+        {
+            "name": "West Pokot",
+            "sub-locations": [
+                "Endebess",
+                "Sigor",
+                "Chepchoina",
+                "Kapenguria",
+                "Kacheliba",
+                "Pokot South",
+                "Pokot North",
+                "Tiaty"
+            ]
+        },
+        {
+            "name": "Samburu",
+            "sub-locations": [
+                "Maralal",
+                "Lodwar",
+                "Baragoi",
+                "Wamba",
+                "Isiolo",
+                "Samburu West",
+                "Samburu South",
+                "Samburu East"
+            ]
+        },
+        {
+            "name": "Trans-Nzoia",
+            "sub-locations": [
+                "Endebess",
+                "Saboti",
+                "Kiminini",
+                "Cherangany",
+                "Kiminini",
+                "Webuye West",
+                "Webuye East",
+                "Bumula"
+            ]
+        },
+        {
+            "name": "Uasin Gishu",
+            "sub-locations": [
+                "Turbo",
+                "Ainabkoi",
+                "Kesses",
+                "Moiben",
+                "Kapsaret",
+                "Kapseret",
+                "Soy",
+                "Kaptagat"
+            ]
+        },
+        {
+            "name": "Elgeyo-Marakwet",
+            "sub-locations": [
+                "Marakwet East",
+                "Marakwet West",
+                "Keiyo South",
+                "Keiyo North",
+                "Sigor",
+                "Kapcherop",
+                "Tambach",
+                "Cheptongei"
+            ]
+        },
+        {
+            "name": "Nandi",
+            "sub-locations": [
+                "Tinderet",
+                "Aldai",
+                "Nandi Hills",
+                "Mosop",
+                "Emgwen",
+                "Chesumei",
+                "Nandi North",
+                "Nandi South"
+            ]
+        },
+        {
+            "name": "Baringo",
+            "sub-locations": [
+                "Baringo Central",
+                "Baringo North",
+                "Baringo South",
+                "Eldama Ravine",
+                "Mogotio",
+                "Eldoret North",
+                "Eldoret East",
+                "Eldoret South"
+            ]
+        },
+        {
+            "name": "Laikipia",
+            "sub-locations": [
+                "Laikipia West",
+                "Laikipia East",
+                "Laikipia North",
+                "Rumuruti",
+                "Nyahururu",
+                "Nanyuki",
+                "Ol Kalou",
+                "Timau"
+            ]
+        },
+        {
+            "name": "Nakuru",
+            "sub-locations": [
+                "Naivasha",
+                "Gilgil",
+                "Bahati",
+                "Kuresoi South",
+                "Kuresoi North",
+                "Molo",
+                "Njoro",
+                "Nakuru Town West"
+            ]
+        },
+        {
+            "name": "Narok",
+            "sub-locations": [
+                "Narok North",
+                "Narok East",
+                "Narok South",
+                "Narok West",
+                "Transmara West",
+                "Transmara East",
+                "Narok",
+                "Mara"
+            ]
+        },
+        {
+            "name": "Kajiado",
+            "sub-locations": [
+                "Kajiado North",
+                "Kajiado Central",
+                "Kajiado East",
+                "Kajiado West",
+                "Loitokitok",
+                "Oloitokitok",
+                "Emurua Dikirr",
+                "Sekenani"
+            ]
+        },
+        {
+            "name": "Kericho",
+            "sub-locations": [
+                "Ainamoi",
+                "Belgut",
+                "Bureti",
+                "Sigowet/Soin",
+                "Kipkelion East",
+                "Kipkelion West",
+                "Soin",
+                "Chepseon"
+            ]
+        },
+        {
+            "name": "Bomet",
+            "sub-locations": [
+                "Chepalungu",
+                "Bomet East",
+                "Bomet Central",
+                "Sotik",
+                "Konoin",
+                "Buret",
+                "Kericho",
+                "Mugirango/Borabu"
+            ]
+        },
+        {
+            "name": "Kakamega",
+            "sub-locations": [
+                "Lugari",
+                "Likuyani",
+                "Navakholo",
+                "Malava",
+                "Lurambi",
+                "Matungu",
+                "Butere",
+                "Khwisero"
+            ]
+        },
+        {
+            "name": "Vihiga",
+            "sub-locations": [
+                "Hamisi",
+                "Sabatia",
+                "Emuhaya",
+                "Vihiga",
+                "Luanda",
+                "Chavakali",
+                "Luanda",
+                "Mumias West"
+            ]
+        },
+        {
+            "name": "Bungoma",
+            "sub-locations": [
+                "Bumula",
+                "Kabuchai",
+                "Mt Elgon",
+                "Bungoma East",
+                "Bungoma West",
+                "Bungoma South",
+                "Bungoma North",
+                "Sirisia"
+            ]
+        },
+        {
+            "name": "Busia",
+            "sub-locations": [
+                "Budalang'i",
+                "Butula",
+                "Nambale",
+                "Funyula",
+                "Samia",
+                "Teso North",
+                "Teso South",
+                "Busia"
+            ]
+        },
+        {
+            "name": "Siaya",
+            "sub-locations": [
+                "Ugenya",
+                "Ugunja",
+                "Bondo",
+                "Gem",
+                "Alego Usonga",
+                "Rarieda",
+                "Siaya",
+                "Budalang'i"
+            ]
+        },
+        {
+            "name": "Kisumu",
+            "sub-locations": [
+                "Kisumu Central",
+                "Kisumu East",
+                "Kisumu West",
+                "Kisumu North",
+                "Seme",
+                "Nyando",
+                "Muhoroni",
+                "Nyakach"
+            ]
+        },
+        {
+            "name": "Homa Bay",
+            "sub-locations": [
+                "Rangwe",
+                "Kasipul",
+                "Kabondo Kasipul",
+                "Karachuonyo",
+                "Ndhiwa",
+                "Mbita",
+                "Suba",
+                "Homa Bay"
+            ]
+        },
+        {
+            "name": "Migori",
+            "sub-locations": [
+                "Suna East",
+                "Sunna West",
+                "Awendo",
+                "Rongo",
+                "Sura",
+                "Kuria West",
+                "Kuria East",
+                "Ikolomani"
+            ]
+        },
+        {
+            "name": "Kisii",
+            "sub-locations": [
+                "Bonchari",
+                "Bomachoge Borabu",
+                "Bobasi",
+                "Bomachoge Chache",
+                "Gucha",
+                "Kitutu Chache North",
+                "Kitutu Chache South",
+                "Nyaribari Masaba"
+            ]
+        },
+        {
+            "name": "Nyamira",
+            "sub-locations": [
+                "West Mugirango",
+                "Borabu",
+                "Nyaribari Chache",
+                "North Mugirango",
+                "Kitutu Masaba",
+                "Nyamira",
+                "Nyamira South",
+                "Nyamira North"
+            ]
+        },
+        {
+            "name": "Nairobi",
+            "sub-locations": [
+                "Langata",
+                "Westlands",
+                "Dagoretti North",
+                "Dagoretti South",
+                "Kasarani",
+                "Ruaraka",
+                "Kibra",
+                "Roysambu"
+            ]
+        }
+    ]
+}
+        
